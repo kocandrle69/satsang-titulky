@@ -1,0 +1,145 @@
+14:43:53  ⏳  Načítám Whisper...
+14:43:53  
+🕉  Satsang Překladač
+14:43:53  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+14:43:53  📺  http://localhost:5001
+14:43:53  📱  IP zjistíš: ipconfig getifaddr en0
+14:43:53  📄  Log: satsang_log.txt
+14:43:53  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+14:43:53  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.100.87:5001
+14:43:53  [33mPress CTRL+C to quit[0m
+14:43:53  ✅  OpenAI API připojeno.
+14:43:53  📋  Dostupná audio zařízení:
+14:43:53    [1] Jan’s iPhone 17 Microphone
+14:43:53    [2] HD Pro Webcam C920
+14:43:53    [3] BlackHole 2ch
+14:43:53    [4] MacBook Air Microphone
+14:43:53    [6] WebexMediaAudioDevice
+14:43:53  ✅  BlackHole [3] — systémový zvuk
+14:43:54  🎙  Poslouchám...
+
+14:43:54  HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+14:43:58  ✅  Whisper připraven.
+14:44:05  Processing audio with duration 00:11.648
+14:44:05  VAD filter removed 00:01.968 of audio
+14:44:25  🇮🇳  समय के नियंतन में होते हैं आप समय के नियंतन से बाहर चले जाते हैं
+14:44:25  ⏳ Buffer 64/600-1200 zn., 32s
+14:44:25  Processing audio with duration 00:03.840
+14:44:25  VAD filter removed 00:01.200 of audio
+14:44:37  🇮🇳  फिर क्या होता है समय
+14:44:37  ⏳ Buffer 85/600-1200 zn., 44s
+14:44:37  Processing audio with duration 00:08.256
+14:44:38  VAD filter removed 00:02.064 of audio
+14:44:54  🇮🇳  के पार अर्थात समाधि अर्थात समय आधि दोनों
+14:44:54  ⏳ Buffer 126/600-1200 zn., 61s
+14:44:54  Processing audio with duration 00:05.312
+14:44:54  VAD filter removed 00:01.168 of audio
+14:45:12  🇮🇳  जो दोनों शब्द हैं उनको मिला के बन गया समाधी
+14:45:12  ⏳ Buffer 170/600-1200 zn., 78s
+14:45:12  Processing audio with duration 00:03.648
+14:45:12  VAD filter removed 00:01.168 of audio
+14:45:27  🇮🇳  एक सुआउसर आप सबके पास है
+14:45:27  ⏳ Buffer 195/600-1200 zn., 93s
+14:45:27  Processing audio with duration 00:03.008
+14:45:27  VAD filter removed 00:01.264 of audio
+14:45:41  🇮🇳  जीवन के उन
+14:45:41  ⏳ Buffer 206/600-1200 zn., 107s
+14:45:41  Processing audio with duration 00:03.264
+14:45:41  VAD filter removed 00:01.264 of audio
+14:45:56  🇮🇳  शलोगो
+14:45:56  ⏳ Buffer 212/600-1200 zn., 123s
+14:45:56  Processing audio with duration 00:07.360
+14:45:57  VAD filter removed 00:01.296 of audio
+14:46:27  🔇  Ticho 30s → flush (212 zn.)
+14:46:27  ⏳ Buffer příliš krátký (212 zn.), čekám na další segment
+14:46:43  🇮🇳  जो आप पाना चाहते हैं इश्वर से नज़दी की चाहते हैं इश्वर में ही विलीन हो जाना चाहते हैं
+14:46:43  ⏳ Buffer 298/600-1200 zn., 169s
+14:46:43  Processing audio with duration 00:11.328
+14:46:43  VAD filter removed 00:01.552 of audio
+14:47:13  🔇  Ticho 30s → flush (298 zn.)
+14:47:16  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+14:47:16  🇨🇿  Jste pod vlivem času, ale když se dostanete mimo působnost času, co se stane? Za časem, tedy Samádhi. Slovo Samádhi vzniklo spojením dvou slov - samaj (prakticky) a ádha (čas). Máte jedinečnou příležitost v životě, pokud chcete dosáhnout toho, po čem toužíte, přiblížit se Bohu, nebo úplně splynout s Bohem.
+
+14:47:25  🇮🇳  दरबार आपको वो सब उपलब्ध करा रहा है धीरे धीरे  कि आप ये करते करते धीरे धीरे इतनी सरलता से
+14:47:25  ⏳ Buffer 88/600-1200 zn., 10s
+14:47:25  Processing audio with duration 00:07.808
+14:47:26  VAD filter removed 00:01.296 of audio
+14:47:56  🔇  Ticho 30s → flush (88 zn.)
+14:47:56  ⏳ Buffer příliš krátký (88 zn.), čekám na další segment
+14:48:09  🇮🇳  आप समय के पार जा सकते हैं आपको कोई आश्चर नहीं होगा रहे तो बड़े आराम से आ गए
+14:48:09  ⏳ Buffer 164/600-1200 zn., 53s
+14:48:09  Processing audio with duration 00:05.376
+14:48:09  VAD filter removed 00:01.200 of audio
+14:48:32  127.0.0.1 - - [19/Jun/2026 14:48:32] "GET / HTTP/1.1" 200 -
+14:48:39  🔇  Ticho 30s → flush (164 zn.)
+14:48:39  ⏳ Buffer příliš krátký (164 zn.), čekám na další segment
+14:48:45  🇮🇳  ये बहुत आराम से जो आ गए वो नित अभ्यास के कारण होता है
+14:48:45  ⏳ Buffer 218/600-1200 zn., 89s
+14:48:45  Processing audio with duration 00:02.944
+14:48:45  VAD filter removed 00:01.200 of audio
+14:48:54  127.0.0.1 - - [19/Jun/2026 14:48:54] "GET / HTTP/1.1" 200 -
+14:49:02  127.0.0.1 - - [19/Jun/2026 14:49:02] "GET / HTTP/1.1" 200 -
+14:49:10  🇮🇳  एक कहानी सुनी थी हमने
+14:49:10  ⏳ Buffer 240/600-1200 zn., 114s
+14:49:10  Processing audio with duration 00:02.944
+14:49:10  VAD filter removed 00:01.296 of audio
+14:49:31  🇮🇳  ये किसान का बेटा
+14:49:31  ⏳ Buffer 257/600-1200 zn., 135s
+14:49:31  Processing audio with duration 00:02.432
+14:49:31  VAD filter removed 00:01.232 of audio
+14:49:48  🇮🇳  गाय पालेतर
+14:49:48  ⏳ Buffer 268/600-1200 zn., 153s
+14:49:48  Processing audio with duration 00:01.664
+14:49:48  VAD filter removed 00:01.664 of audio
+14:49:48  Processing audio with duration 00:03.008
+14:49:48  VAD filter removed 00:01.936 of audio
+14:50:05  🇮🇳  जब वो
+14:50:05  ⏳ Buffer 274/600-1200 zn., 170s
+14:50:05  Processing audio with duration 00:16.000
+14:50:06  VAD filter removed 00:01.408 of audio
+14:50:36  🔇  Ticho 30s → flush (274 zn.)
+14:50:37  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+14:50:37  🇨🇿  Darbár vám postupně poskytuje vše, abyste to mohli snadno dělat, a takovým způsobem, abyste mohli pomalu překonávat čas, aniž byste byli překvapeni. Přijdete tam velmi snadno a ten, kdo toho dosáhne, to zvládne díky každodenní praxi. Slyšel jsem jeden příběh o synovi farmáře, který choval krávu a když on...
+
+14:51:07  🇮🇳  दायने एक बच्चे को जनम दिया बच्चड़े को छोटा सा था तो किसान का वो जो बेटा था उस बच्चड़े को अपने कंदों पर रख करके और घुमाता था खिलाता था ऐसा वो रोज कर रहा था
+14:51:07  ⏳ Buffer 154/600-1200 zn., 30s
+14:51:07  Processing audio with duration 00:01.984
+14:51:07  VAD filter removed 00:01.136 of audio
+14:51:29  🇮🇳  सब्सक्राइब
+14:51:29  ⏳ Buffer 165/600-1200 zn., 51s
+14:51:29  Processing audio with duration 00:04.608
+14:51:29  VAD filter removed 00:01.328 of audio
+14:51:55  🇮🇳  एक भी दिन उसने चूक नहीं की अभ्यास में
+14:51:55  ⏳ Buffer 203/600-1200 zn., 78s
+14:51:55  Processing audio with duration 00:03.136
+14:51:55  VAD filter removed 00:01.200 of audio
+14:52:16  🇮🇳  अब गाय का बच्चड़ा हो गया
+14:52:16  ⏳ Buffer 228/600-1200 zn., 99s
+14:52:16  Processing audio with duration 00:02.368
+14:52:16  VAD filter removed 00:01.200 of audio
+14:52:32  🇮🇳  दो साल का
+14:52:32  ⏳ Buffer 238/600-1200 zn., 114s
+14:52:32  Processing audio with duration 00:02.816
+14:52:32  VAD filter removed 00:01.328 of audio
+14:52:50  🇮🇳  तो एक सज्जन आए
+14:52:50  ⏳ Buffer 253/600-1200 zn., 132s
+14:52:50  Processing audio with duration 00:02.752
+14:52:50  VAD filter removed 00:01.264 of audio
+14:53:09  🇮🇳  उससे उन्होंने कहा
+14:53:09  ⏳ Buffer 271/600-1200 zn., 151s
+14:53:09  Processing audio with duration 00:16.000
+14:53:09  VAD filter removed 00:01.248 of audio
+14:53:39  🔇  Ticho 30s → flush (271 zn.)
+14:53:41  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+14:53:41  🇨🇿  Ten malý teleček se narodil, byl opravdu malý. Syn toho farmáře ho nosil na ramenou, krmil ho a hrál si s ním. Dělal to každý den, ani jednou ten trénink nevynechal. Teď tele vyrostlo a je mu dva roky. Potom k němu přišel jeden muž a řekl mu...
+
+14:54:16  🇮🇳  कि क्या इस बच्चड़े को अभी जो काफी तंदुरुस्त हो गया था बच्चड़ा बैल बन गया था इसको कंदे बठा के गुमा सकते हो तो कहा कैसे पागल बन की बात करते हो बैल को कौन कंदे बठा
+14:54:16  ⏳ Buffer 160/600-1200 zn., 35s
+14:54:16  Processing audio with duration 00:16.000
+14:54:16  VAD filter removed 00:01.280 of audio
+14:54:46  🔇  Ticho 30s → flush (160 zn.)
+14:54:46  ⏳ Buffer příliš krátký (160 zn.), čekám na další segment
